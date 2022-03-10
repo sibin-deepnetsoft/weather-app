@@ -9,5 +9,5 @@ In the project directory, you can run:
 ### `npm start`
 
 # Sample urls for testing
-http://localhost:3000/?city=new+york
+http://localhost:3000/?city=new+york  
 http://localhost:3000/?city=seattle
